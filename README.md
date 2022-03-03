@@ -1,1 +1,1 @@
-this repository is for mastering vi and emacs commands
+Giving differerent permissions to different users
