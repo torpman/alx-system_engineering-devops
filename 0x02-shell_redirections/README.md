@@ -7,3 +7,4 @@ Task 8: Writing a standard output in a file
 Task 9 is about duplicating lines
 Task 10 is deleting all js files in the directory and subdirectories
 Task 11 : countingthe number of directories
+Tash 12 is about sorting from the newst to the oldest
