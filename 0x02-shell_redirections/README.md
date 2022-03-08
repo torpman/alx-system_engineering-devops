@@ -14,3 +14,4 @@ Task 15 is all above counting words in a file
 task 16 is all about the next lines
 Task 17 is about hing wordsm
 Task 18 is outputing letters only
+Replacing letter from input
