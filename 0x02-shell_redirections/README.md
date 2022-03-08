@@ -19,3 +19,4 @@ Task 20 is about removing c
 Task 21 reverses its input
 Task 22 link users with there homes
 Task 100 find empty files
+File 102 is for acrostic
