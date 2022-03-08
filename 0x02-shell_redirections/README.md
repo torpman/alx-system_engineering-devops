@@ -11,3 +11,5 @@ Tash 12 is about sorting from the newst to the oldest
 Task 13 is about being unique
 task 14 is aboout ultimate search
 Task 15 is all above counting words in a file 
+task 16 is all about the next lines
+Task 17 is about hing wordsm
