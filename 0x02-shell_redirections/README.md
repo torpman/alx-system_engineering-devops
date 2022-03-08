@@ -15,3 +15,5 @@ task 16 is all about the next lines
 Task 17 is about hing wordsm
 Task 18 is outputing letters only
 Replacing letter from input
+Task 20 is about removing c
+Task 21 reverses its input
