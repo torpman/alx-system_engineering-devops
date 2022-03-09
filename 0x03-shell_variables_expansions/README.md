@@ -4,3 +4,4 @@ TASK 2: Adding an action path to the PATH where it becomes the last file to look
 Task 4: list out all the environmental variables usingthe env or printenv command
 TASK 5: print out all the local and enviromental variables together with the functions by using set command
 Task 6: creating a local variable
+Task 7: creating a global variable using export command
