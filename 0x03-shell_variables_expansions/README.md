@@ -7,3 +7,4 @@ Task 6: creating a local variable
 Task 7: creating a global variable using export command
 TASK 8: using the shell as a calculator by adding 128 with the value in a global variable
 TASK 9: performing basic arithmetic operation(division) using the shell 
+Task 10: performing exponential operation using shell
