@@ -1,16 +1,30 @@
 #!/usr/bin/env bash
-#prints a string 10 times
-x=0
-while [ $x != 10 ]
+# displays numbers from 1 to 20.
+
+COUNTER=1
+while [ $COUNTER -lt 21 ]
 do
-  if [ $x = 3 ]
-  then
-    echo "bad luck"
-  elif [ $x = 7 ]
-  then
-    echo "good luck"
-  else
-    echo "Best School"
-  fi
-  x=$(( x + 1 ))
+    case $COUNTER in
+
+        4)
+	    echo $COUNTER
+	    echo "bad luck from China"
+	    ;;
+	
+	9)
+	    echo $COUNTER
+	    echo "bad luck from Japan"
+	    ;;
+	
+	17)
+	    echo $COUNTER
+	    echo "bad luck from Italy"
+	    ;;
+
+	*)
+	    echo $COUNTER
+	    ;;
+    esac
+
+    COUNTER=$(( COUNTER+=1 ))
 done
